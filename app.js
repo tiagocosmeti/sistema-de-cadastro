@@ -1,1 +1,1 @@
-console.js(Logandoo sistema de gerenciamento de jogos");
+console.js("Rodando sistema de gerenciamento de jogos");
